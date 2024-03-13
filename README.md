@@ -1,7 +1,3 @@
-# bookstore
-
-Simple project for manaing bookstore
-
 ## Table of Contents
 
 - [Installation](#installation)
